@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nagesh+Mathpati;Software+Engineer+%7C+QA+Specialist;Java+%7C+Spring+Boot+%7C+Full+Stack;Building+Scalable+%26+Reliable+Systems" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00e5ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=nagesh3210&label=Profile%20Views&color=00e5ff&style=flat-square" />
 </p>
 
 </div>
@@ -52,8 +52,8 @@
 ## 📊 Engineering Footprint
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nagesh3210&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh3210&theme=tokyonight" />
 </div>
 
 ---
