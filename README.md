@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C00FF&height=220&section=header&text=Nagesh%20Mathpati&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Nagesh%20Mathpati&fontSize=42&fontAlignY=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer;QA+Specialist;Java+%7C+Spring+Boot+%7C+Microservices;Full+Stack+Developer;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineer;QA+Specialist;Java+%7C+Spring+Boot+%7C+Microservices;Full+Stack+Developer;Building+Reliable+Systems" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=nagesh3210&label=VISITS&color=00f5ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=nagesh3210&label=Views&color=0e75b6&style=flat-square" />
 </p>
 
 </div>
@@ -14,77 +14,67 @@
 
 <div align="center">
 
-### 🧊 DIGITAL PROFILE CUBE
+<table>
+<tr>
+<td width="50%" valign="top">
 
-╔════════════════════════════════════════════╗
-║ NAME : Nagesh Mathpati ║
-║ ROLE : Software Engineer ║
-║ SPECIALITY : QA + Full Stack ║
-║ CORE STACK : Java • Spring • MicroSvc ║
-║ DOMAIN : Healthcare • Enterprise ║
-║ MINDSET : Build. Test. Scale. ║
-╚════════════════════════════════════════════╝
+### 👨‍💻 About Me
+
+I am a software engineer with a strong QA mindset.  
+I design scalable backends, test them deeply, and deliver reliable systems.
+
+- Java & Spring Boot  
+- Microservices Architecture  
+- Manual & Automation Testing  
+- Full Stack (Next.js, React, Node.js)  
+- MySQL, Kafka  
+- Healthcare & Enterprise Products  
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What I Focus On
+
+- Clean architecture  
+- API reliability  
+- Test automation  
+- Production-ready code  
+- Performance & stability  
+- Continuous improvement  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧬 SYSTEM CORE
-
-> I design **scalable microservices**, write **clean backend systems**, and enforce **quality-first engineering**.  
-> My edge: I think like a developer and test like a breaker.
-
-- ☕ Java | Spring Boot | Microservices Architecture  
-- 🧪 Automation & Manual Testing – Selenium, TestNG  
-- 🌐 Full Stack – Next.js, React, Node.js  
-- 🗄 Data – MySQL, Schema Design  
-- 🔄 Event Systems – Apache Kafka  
-- 🏥 Real-world products in Healthcare & Case Management  
-
----
-
-## ⚙️ TECH MATRIX
+## 🛠 Animated Tech Stack
 
 <div align="center">
-
-### BACKEND CORE
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,kafka" />
-
-### FRONT INTERFACE
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" />
-
-### QUALITY LAYER
-<img src="https://skillicons.dev/icons?i=selenium" />
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
-
-### DEVOPS GRID
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,windows" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### TOOLCHAIN
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,html,css,js,mysql,kafka,selenium,git,github,maven,docker,linux" />
 </div>
 
 ---
 
-## 📊 SYSTEM TELEMETRY
+## 📊 Live GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nagesh3210&show_icons=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh3210&theme=transparent" />
 </div>
 
 ---
 
-## 🌐 CONNECTION PORTS
+## 🌐 Let’s Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nageshmathpati3210/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="nmathapati088@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:nmathapati088@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
 
@@ -92,6 +82,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C00FF,100:00F5FF&height=160&section=footer&text=Engineer%20The%20Future&fontSize=28&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Build.%20Test.%20Scale.&fontSize=22" />
 
 </div>
